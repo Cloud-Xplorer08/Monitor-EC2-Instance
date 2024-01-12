@@ -1,4 +1,4 @@
-![alarm ec2 metric](https://github.com/Cloud-Xplorer08/Monitor-EC2-Instance/assets/71820244/68350bfc-c9e4-45ae-992f-6d4fb4ed4675)# Monitor an EC2 Instance
+# Monitor an EC2 Instance
 ## Overview
 Logging and monitoring are techniques implemented to achieve a common goal. They work together to help ensure that a system's performance baselines and security guidelines are always met. 
 
@@ -62,9 +62,13 @@ In this task, you ran a command to load the EC2 instance to 100 percent for 400 
 
 ## Conclusion
 -Created an Amazon SNS notification
+
 -Configured a Cloudwatch alarm
+
 -Stress tested an EC2 instance
+
 -Confirmed that an Amazon SNS email was sent
+
 -Created a CloudWatch dashboard
 
 
